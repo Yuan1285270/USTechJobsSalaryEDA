@@ -1,4 +1,4 @@
-# Tech Jobs US – Salary Analysis & Job Market Insights
+# Tech Jobs US – EDA
 
 This project analyzes the **US tech job market** by integrating job listing data from both a **Kaggle dataset** and the **Adzuna Job Search API**.
 
