@@ -50,25 +50,6 @@ The goal is to explore salary trends and identify factors that influence compens
 
 ---
 
-## How to Run
-
-### 1. Clone Repository
-
-git clone https://github.com/Yuan1285270/TechJobsUS.git  
-cd TechJobsUS  
-
-### 2. Install Dependencies
-
-pip install pandas numpy matplotlib seaborn requests openpyxl openpyxl  
-
-### 3. Run Notebook
-
-jupyter notebook  
-
-Open `FinalProject.ipynb`.
-
----
-
 ## Key Insights (Summary)
 
 This project provides insights into:
